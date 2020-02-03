@@ -1,0 +1,25 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.jks.bak
+*.p12
+*.key
+*.mobileprovision
+
+# osx
+.DS_Store
+
+# intellij
+.idea
+local.properties
+
+# docs
+docs/docs.json
+docs/output.json
+
+.expo
+.expo-shared/
+dist
+
+src/core/config/firebase.config.json
