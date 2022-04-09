@@ -41,7 +41,7 @@
     "human-date": "^1.4.0",
     "lottie": "^0.0.1",
     "lottie-react-native": "~2.6.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-msw": "https://github.com/jzarca01/node-msw.git",
     "react": "16.9.0",
     "react-firebase-hooks": "^2.1.1",
